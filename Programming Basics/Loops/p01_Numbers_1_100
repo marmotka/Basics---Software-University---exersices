@@ -1,0 +1,12 @@
+package date_17_04_02_Loops;
+
+
+public class p01_Numbers_1_100 {
+    public static void main(String[] args) {
+        for (int i = 1; i <=100 ; i++) {
+
+            System.out.println(i);
+
+        }
+    }
+}
